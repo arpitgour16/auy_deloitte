@@ -1,3 +1,6 @@
 Big data analytics
 Data Science
 machine Learning
+ai
+power
+matplotlib
